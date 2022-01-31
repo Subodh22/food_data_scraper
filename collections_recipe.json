@@ -1,0 +1,50 @@
+{
+    "collections":
+    [
+        {"title":"Healthy comfort food recipes",
+         "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/butter-chicken-e1e0e8a.jpg?quality=90&webp=true&resize=500,454"
+            },
+        {"title":"Freezable comfort food recipes",
+                "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/slow_cooker_chicken_korma-4560c0d.jpg?quality=90&resize=500,454"},
+                
+            {"title":"Leek recipes",
+         "img":"https://images.immediate.co.uk/production/volatile/sites/30/2013/05/pea-and-leek-tart-b65adb3.jpg?quality=90&resize=556,505"},
+        {"title":"Beetroot recipes",
+                "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/01/beetroot-star-anise-red-onion-tart-tatin-d0d5265.jpg?quality=90&resize=440,400"},
+    
+       {"title":"Quick and healthy recipes",
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2013/05/Nutty-chicken-satay-a8c094e.jpg?quality=90&resize=556,505"},
+        {"title":"Quick veggie recipes",
+            "img":"https://images.immediate.co.uk/production/volatile/sites/30/2013/05/PineappleFriedRice-e97ea07.jpg?quality=90&resize=556,505"},
+        {"title":"Cheesecake recipes",
+                "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1028453_10-366e2a3.jpg?quality=90&resize=500,454"},
+   
+        {"title":"Cookie recipes",
+                    "img":"https://images.immediate.co.uk/production/volatile/sites/30/2013/05/Vintage-choc-chip-cookies-d8cb1e5.jpg?quality=90&resize=556,505"}
+                ,
+        {"title":"Family meal recipes",
+                    "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/08/Sausage-and-mushroom-ragu-203c7d4.jpg?quality=90&resize=556,505"},
+            
+         {"title":"Healthy kids' recipes",
+                        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2013/05/SalmonTrayBake-87c9f44.jpg?quality=90&resize=556,505"},
+                
+        {"title":"Easy dinner recipes",
+                            "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chicken_pasta_bake-bb82ba6.jpg?quality=90&resize=500,454"},
+                    
+        {"title":"Quick and easy recipes",
+            "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/coconut-squash-dhansak-818351d.jpg?quality=90&resize=500,454"},           
+        {"title":"Vegetable soup recipes",
+            "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/winter-soup-0bae85e.jpg?quality=90&resize=500,454"},    
+        {"title":"Healthy soup recipes",
+                "img":"https://images.immediate.co.uk/production/volatile/sites/30/2013/05/EW-Minestrone_02103-a0c7e0c.jpg?quality=90&resize=556,505"},        
+        {"title":"Chicken curry recipes",
+                    "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chicken-madras-d09bd7f.jpg?quality=90&resize=500,454"},        
+        {"title":"Pasta recipes",
+         "img":"https://images.immediate.co.uk/production/volatile/sites/30/2013/05/Puttanesca-fd5810c.jpg?quality=90&resize=556,505"},  
+        {"title":"Easy cocktail recipes",
+            "img":"https://images.immediate.co.uk/production/volatile/sites/30/2021/04/Raspberry-Mojito-a9cb8d4.jpg?quality=90&resize=556,505"}, 
+        {"title":"Whole foods recipes",
+                "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chia-porridge-a3b3dab-scaled.jpg?quality=90&resize=556,505"}, 
+        {"title":"Healthy dinner recipes",
+                "img":"https://images.immediate.co.uk/production/volatile/sites/30/2017/03/Healthy-roast-dinner44-70439db.jpg?quality=90&resize=440,400"}              ]
+}
